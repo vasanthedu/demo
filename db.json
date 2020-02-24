@@ -4,20 +4,22 @@
     "title": "Event Ticket",
     "price": 420,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img1.jpg"
+    "image": "https://raw.githubusercontent.com/vasanthedu/demo/master/event/img1.jpg"
+
+    
   },
   {
     "id": 2,
     "title": "Bracelet",
     "price": 150,
     "description": "Ut enim ad minim veniam.",
-    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img2.jpg"
+    "image": "https://raw.githubusercontent.com/vasanthedu/demo/master/event/img2.jpg"
   },
   {
     "id": 3,
     "title": "Bracelet Topup",
     "price": 50,
     "description": "Aliquip ex ea commodo consequat.",
-    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img3.jpg"
+    "image": "https://raw.githubusercontent.com/vasanthedu/demo/master/event/img3.jpg"
   }
 ]
