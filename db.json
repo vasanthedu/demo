@@ -1,14 +1,23 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "title": "Event Ticket",
+    "price": 420,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bracelet",
+    "price": 150,
+    "description": "Ut enim ad minim veniam.",
+    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Bracelet Topup",
+    "price": 50,
+    "description": "Aliquip ex ea commodo consequat.",
+    "image": "https://github.com/vasanthedu/mbat2020/blob/master/src/assets/img/event/img3.jpg"
   }
-}
+]
